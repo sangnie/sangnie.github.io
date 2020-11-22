@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CaRB: A Crowdsourced Benchmark for Open IE"
+date:   2019-11-04 22:21:59 +00:00
+image: /images/carb.png
+categories: research
+author: "Sangnie"
+authors: "<strong>Sangnie Bhardwaj</strong>,Samarth Aggarwal, Mausam"
+venue: "EMNLP-IJCNLP 2019"
+arxiv: https://www.aclweb.org/anthology/D19-1651/
+code: https://github.com/dair-iitd/CaRB
+---
+We release CaRB, an improved crowdsourced dataset and framework for testing Open Information Extraction systems.

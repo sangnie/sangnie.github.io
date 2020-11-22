@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "An Unsupervised Information-Theoretic Perceptual Quality Metric"
+date:   2019-12-06 22:21:59 +00:00
+image: /images/pim.png
+categories: research
+author: "Sangnie"
+authors: "<strong>Sangnie Bhardwaj</strong>, Ian Fischer, Johannes Ballé, Troy
+Chinen"
+venue: "NeurIPS 2020"
+arxiv: https://arxiv.org/abs/2006.06752
+poster: /pdfs/pim_poster.pdf
+---
+We develop PIM, a perceptual quality metric, by combining recent advances in information-theoretic objective functions with a computational architecture informed by the physiology of the human visual system.
